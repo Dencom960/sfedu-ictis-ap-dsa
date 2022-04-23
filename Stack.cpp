@@ -1,7 +1,7 @@
 //
 // Created by Денис on 20.04.2022.
 //
-#include <Stack.h>
+#include "Stack.h"
 
 namespace StackNS {
     template<typename TYPE>

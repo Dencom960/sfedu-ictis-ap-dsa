@@ -1,7 +1,7 @@
 //
 // Created by Денис on 20.04.2022.
 //
-#include <List.h>
+#include "List.h"
 
 
 namespace ListNS {

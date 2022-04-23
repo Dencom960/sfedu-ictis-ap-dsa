@@ -49,4 +49,4 @@ namespace QueueNS {
         }
         delete queue;
     }
-};
+}

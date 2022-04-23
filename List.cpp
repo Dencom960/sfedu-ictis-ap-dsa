@@ -98,4 +98,4 @@ namespace ListNS {
         }
         delete list;
     }
-};
+}

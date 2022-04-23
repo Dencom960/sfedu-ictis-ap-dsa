@@ -47,4 +47,4 @@ namespace ArrayNS {
         delete[] arr->array;
         delete arr;
     }
-};
+}
